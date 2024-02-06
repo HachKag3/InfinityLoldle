@@ -1,0 +1,2889 @@
+{
+    "Aatrox": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Darkin"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Runeterra",
+            "Shurima"
+        ],
+        "release": 2013,
+        "emo" : ""
+    },
+    "Ahri": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2011
+    },
+    "Akali": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale",
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Energia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2010
+    },
+    "Akshan": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2021
+    },
+    "Alistar": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Minotauro"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Amumu": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Supporto"
+        ],
+        "species": [
+            "Non morto",
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Anivia": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Dio",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2009
+    },
+    "Annie": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Aphelios": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Targon"
+        ],
+        "release": 2019
+    },
+    "Ashe": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore",
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato col ghiaccio"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2009
+    },
+    "AurelionSol": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Celestiale",
+            "Drago"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Runeterra",
+            "Targon"
+        ],
+        "release": 2016
+    },
+    "Azir": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Dio Guerriero"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2014
+    },
+    "Bard": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Celestiale"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2015
+    },
+    "Blitzcrank": {
+        "gender": "Altro",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Golem"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "Brand": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord",
+            "Runeterra"
+        ],
+        "release": 2011
+    },
+    "Braum": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato col ghiaccio"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2014
+    },
+    "Caitlyn": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2011
+    },
+    "Camille": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Cyborg",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2016
+    },
+    "Cassiopeia": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Shurima"
+        ],
+        "release": 2010
+    },
+    "Chogath": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Il Vuoto"
+        ],
+        "release": 2009
+    },
+    "Corki": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City",
+            "Piltover"
+        ],
+        "release": 2009
+    },
+    "Darius": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2012
+    },
+    "Diana": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla",
+            "Centrale"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Targon"
+        ],
+        "release": 2012
+    },
+    "DrMundo": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Umano"
+        ],
+        "resource": "Costo in salute",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "Draven": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2012
+    },
+    "Ekko": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Centrale"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2015
+    },
+    "Elise": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo",
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Isole Ombra"
+        ],
+        "release": 2012
+    },
+    "Evelynn": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Demone",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Ezreal": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2010
+    },
+    "Fiddlesticks": {
+        "gender": "Altro",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Demone",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Fiora": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2012
+    },
+    "Fizz": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2011
+    },
+    "Galio": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Golem"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2010
+    },
+    "Gangplank": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2009
+    },
+    "Garen": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2010
+    },
+    "Gnar": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Rabbia",
+        "range_types": [
+            "Corpo a corpo",
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2014
+    },
+    "Gragas": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2010
+    },
+    "Graves": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2011
+    },
+    "Gwen": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Camavor",
+            "Isole Ombra"
+        ],
+        "release": 2021
+    },
+    "Hecarim": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Non morto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Camavor",
+            "Isole Ombra"
+        ],
+        "release": 2012
+    },
+    "Heimerdinger": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2009
+    },
+    "Illaoi": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2015
+    },
+    "Irelia": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore",
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2010
+    },
+    "Ivern": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord",
+            "Ionia"
+        ],
+        "release": 2016
+    },
+    "JarvanIV": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2011
+    },
+    "Janna": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Dio",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima",
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "Jax": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Sconosciuto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Icathia",
+            "Runeterra",
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Jayce": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore",
+            "Centrale"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo",
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2012
+    },
+    "Jhin": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2016
+    },
+    "Jinx": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2013
+    },
+    "Kaisa": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano",
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima",
+            "Il Vuoto"
+        ],
+        "release": 2018
+    },
+    "Kalista": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Non morto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Camavor",
+            "Isole Ombra"
+        ],
+        "release": 2014
+    },
+    "Karma": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2011
+    },
+    "Karthus": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Non morto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Isole Ombra"
+        ],
+        "release": 2009
+    },
+    "Kassadin": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima",
+            "Il Vuoto"
+        ],
+        "release": 2009
+    },
+    "Katarina": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2009
+    },
+    "Kayle": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo",
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia",
+            "Targon"
+        ],
+        "release": 2009
+    },
+    "Kayn": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Darkin",
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia",
+            "Noxus",
+            "Runeterra",
+            "Shurima"
+        ],
+        "release": 2017
+    },
+    "Kennen": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Energia",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2010
+    },
+    "Khazix": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Il Vuoto"
+        ],
+        "release": 2012
+    },
+    "Kindred": {
+        "gender": "Altro",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Dio",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2015
+    },
+    "Kled": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Coraggio",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2016
+    },
+    "KogMaw": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Il Vuoto"
+        ],
+        "release": 2010
+    },
+    "Leblanc": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2010
+    },
+    "LeeSin": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Energia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2011
+    },
+    "Leona": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano"
+        ],
+        "resource": "Umano",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Targon"
+        ],
+        "release": 2011
+    },
+    "Lillia": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2020
+    },
+    "Lissandra": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato col ghiaccio"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2016
+    },
+    "Lucian": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia",
+            "Isole Ombra"
+        ],
+        "release": 2013
+    },
+    "Lulu": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City"
+        ],
+        "release": 2012
+    },
+    "Lux": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2010
+    },
+    "Malphite": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Golem"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Malzahar": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima",
+            "Il Vuoto"
+        ],
+        "release": 2010
+    },
+    "Maokai": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Supporto"
+        ],
+        "species": [
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Isole Ombra"
+        ],
+        "release": 2011
+    },
+    "MasterYi": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2009
+    },
+    "MissFortune": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2010
+    },
+    "Mordekaiser": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Risuscitato"
+        ],
+        "resource": "Scudo",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus",
+            "Isole Ombra"
+        ],
+        "release": 2010
+    },
+    "Morgana": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia",
+            "Targon"
+        ],
+        "release": 2009
+    },
+    "Nami": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bilgewater",
+            "Runeterra"
+        ],
+        "release": 2012
+    },
+    "Nasus": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Dio Guerriero"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Nautilus": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Risuscitato"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2012
+    },
+    "Neeko": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ixtal"
+        ],
+        "release": 2018
+    },
+    "Nidalee": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo",
+            "A distanza"
+        ],
+        "regions": [
+            "Ixtal"
+        ],
+        "release": 2009
+    },
+    "Nocturne": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Demone",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2011
+    },
+    "Nunu": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Yeti"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2009
+    },
+    "Olaf": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Nato col ghiaccio"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2010
+    },
+    "Orianna": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Golem"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover"
+        ],
+        "release": 2011
+    },
+    "Ornn": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Dio",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2017
+    },
+    "Pantheon": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Supporto",
+            "Superiore"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Targon"
+        ],
+        "release": 2010
+    },
+    "Poppy": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2010
+    },
+    "Pyke": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Risuscitato"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2018
+    },
+    "Qiyana": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ixtal"
+        ],
+        "release": 2019
+    },
+    "Quinn": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2013
+    },
+    "Rakan": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2017
+    },
+    "Rammus": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Dio Guerriero"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "RekSai": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Essere del vuoto"
+        ],
+        "resource": "Rabbia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima",
+            "Il Vuoto"
+        ],
+        "release": 2014
+    },
+    "Rell": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2020
+    },
+    "Renata": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2022
+    },
+    "Renekton": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Dio Guerriero"
+        ],
+        "resource": "Furia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2011
+    },
+    "Rengar": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Ferocia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "release": 2012
+    },
+    "Riven": {
+        "gender": "Femmina",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia",
+            "Noxus"
+        ],
+        "release": 2011
+    },
+    "Rumble": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore",
+            "Centrale"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Calore",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bandle City"
+        ],
+        "release": 2011
+    },
+    "Ryze": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Samira": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Shurima"
+        ],
+        "release": 2020
+    },
+    "Sejuani": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano",
+            "Nato col ghiaccio"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2012
+    },
+    "Senna": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Non morto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Isole Ombra"
+        ],
+        "release": 2019
+    },
+    "Seraphine": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "release": 2020
+    },
+    "Sett": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Vastaya"
+        ],
+        "resource": "Grinta",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2020
+    },
+    "Shaco": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Runeterra"
+        ],
+        "release": 2009
+    },
+    "Shen": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Energia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2010
+    },
+    "Shyvana": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Drago",
+            "Mutato magicamente"
+        ],
+        "resource": "Furia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2011
+    },
+    "Singed": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato chimicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "Sion": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Risuscitato"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2009
+    },
+    "Sivir": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Skarner": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Brackern"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2011
+    },
+    "Sona": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia",
+            "Ionia"
+        ],
+        "release": 2010
+    },
+    "Soraka": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Celestiale"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia",
+            "Targon"
+        ],
+        "release": 2009
+    },
+    "Swain": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2010
+    },
+    "Sylas": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "release": 2019
+    },
+    "Syndra": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2012
+    },
+    "TahmKench": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore",
+            "Supporto"
+        ],
+        "species": [
+            "Demone",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Bilgewater",
+            "Runeterra"
+        ],
+        "release": 2015
+    },
+    "Taliyah": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla",
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2010
+    },
+    "Talon": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Centrale"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Noxus"
+        ],
+        "release": 2011
+    },
+    "Taric": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia",
+            "Targon"
+        ],
+        "release": 2009
+    },
+    "Teemo": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City"
+        ],
+        "release": 2009
+    },
+    "Thresh": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Non morto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Isole Ombra"
+        ],
+        "release": 2013
+    },
+    "Tristana": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City"
+        ],
+        "release": 2009
+    },
+    "Trundle": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Nato col ghiaccio",
+            "Troll"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2010
+    },
+    "Tryndamere": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Furia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2019
+    },
+    "TwistedFate": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bilgewater"
+        ],
+        "release": 2009
+    },
+    "Twitch": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Ratto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "Udyr": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Spiritualista"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord",
+            "Ionia"
+        ],
+        "release": 2009
+    },
+    "Urgot": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Cyborg",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Noxus",
+            "Zaun"
+        ],
+        "release": 2010
+    },
+    "Varus": {
+        "gender": "Maschio",
+        "positions": [
+            "Inferiore",
+            "Centrale"
+        ],
+        "species": [
+            "Darkin",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia",
+            "Runeterra",
+            "Shurima"
+        ],
+        "release": 2012
+    },
+    "Vayne": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore",
+            "Superiore"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Demacia"
+        ],
+        "release": 2011
+    },
+    "Veigar": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City",
+            "Runeterra",
+            "Isole Ombra"
+        ],
+        "release": 2009
+    },
+    "Velkoz": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Essere del vuoto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Il Vuoto"
+        ],
+        "release": 2014
+    },
+    "Vex": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City",
+            "Isole Ombra"
+        ],
+        "release": 2021
+    },
+    "Vi": {
+        "gender": "Femmina",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "release": 2012
+    },
+    "Viego": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Non morto"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Camavor",
+            "Isole Ombra"
+        ],
+        "release": 2021
+    },
+    "Viktor": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Cyborg",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "release": 2011
+    },
+    "Vladimir": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Sete di sangue",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Camavor",
+            "Noxus",
+            "Isole Ombra"
+        ],
+        "release": 2010
+    },
+    "Volibear": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Dio",
+            "Spirito"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Freljord"
+        ],
+        "release": 2011
+    },
+    "Warwick": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Mutato chimicamente",
+            "Cyborg",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2009
+    },
+    "MonkeyKing": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla",
+            "Superiore"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2011
+    },
+    "Xayah": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Vastaya"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2017
+    },
+    "Xerath": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Supporto"
+        ],
+        "species": [
+            "Dio Guerriero"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Shurima"
+        ],
+        "release": 2011
+    },
+    "XinZhao": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Demacia",
+            "Ionia",
+            "Noxus"
+        ],
+        "release": 2010
+    },
+    "Yasuo": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Flusso",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2013
+    },
+    "Yone": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Senza mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2020
+    },
+    "Yorick": {
+        "gender": "Maschio",
+        "positions": [
+            "Superiore"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Isole Ombra"
+        ],
+        "release": 2011
+    },
+    "Yuumi": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Gatto",
+            "Mutato magicamente"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Bandle City"
+        ],
+        "release": 2019
+    },
+    "Zac": {
+        "gender": "Maschio",
+        "positions": [
+            "Giungla"
+        ],
+        "species": [
+            "Golem"
+        ],
+        "resource": "Costo in salute",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2013
+    },
+    "Zed": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Umano",
+            "Mutato magicamente"
+        ],
+        "resource": "Energia",
+        "range_types": [
+            "Corpo a corpo"
+        ],
+        "regions": [
+            "Ionia"
+        ],
+        "release": 2012
+    },
+    "Zeri": {
+        "gender": "Femmina",
+        "positions": [
+            "Inferiore"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2022
+    },
+    "Ziggs": {
+        "gender": "Maschio",
+        "positions": [
+            "Centrale",
+            "Inferiore"
+        ],
+        "species": [
+            "Yordle"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Zaun"
+        ],
+        "release": 2012
+    },
+    "Zilean": {
+        "gender": "Maschio",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Umano",
+            "Nato con la magia"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Icathia",
+            "Runeterra",
+            "Shurima"
+        ],
+        "release": 2009
+    },
+    "Zoe": {
+        "gender": "Femmina",
+        "positions": [
+            "Centrale"
+        ],
+        "species": [
+            "Aspetto",
+            "Umano"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Targon"
+        ],
+        "release": 2017
+    },
+    "Zyra": {
+        "gender": "Femmina",
+        "positions": [
+            "Supporto"
+        ],
+        "species": [
+            "Sconosciuto"
+        ],
+        "resource": "Mana",
+        "range_types": [
+            "A distanza"
+        ],
+        "regions": [
+            "Ixtal"
+        ],
+        "release": 2012
+    }
+}
