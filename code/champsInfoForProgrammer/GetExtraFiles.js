@@ -35,8 +35,8 @@ const URL_AllRequire = "./src/AllImagesChamps.tsx";
 
 /**
  * Funzione che crea una lista con le informazioni ritenute importanti per il progetto per ogni Campione e scrive questa lista sul file "champions.json"
- * @param {*} listChamps lista dei Campioni con le informazioni generali
- * @param {*} listMoreInfo lista dei Campioni con le informazioni per la modalità Classic
+ * @param listChamps lista dei Campioni con le informazioni generali
+ * @param listMoreInfo lista dei Campioni con le informazioni per la modalità Classic
  * @returns la lista dei Campioni con le informazioni importanti per il progetto
  */
 const writeChamps = async (listChamps, listMoreInfo) => {
@@ -66,7 +66,7 @@ const writeChamps = async (listChamps, listMoreInfo) => {
             }
             )
         ];
-        // Restituisce il Campione con le sole informazione ritenute necessarie e quelle aggiunte dall'altra lista fornita
+        // il map restituisce il Campione con le sole informazione ritenute necessarie e quelle aggiunte dall'altra lista fornita
         return {
             id: champ.id,
             key: champ.key,
